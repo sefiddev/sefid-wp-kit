@@ -1,0 +1,242 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR sefid.dev
+# This file is distributed under the same license as the Sefid WP Kit package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sefid WP Kit 3.0.1\n"
+"Report-Msgid-Bugs-To: https://sefid.dev\n"
+"POT-Creation-Date: 2026-09-04 23:47+0330\n"
+"PO-Revision-Date: 2026-09-05\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"X-Domain: sefid-kit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: sefid-kit.php:279
+#, php-format
+msgid ""
+"Payment for order %s went through. Your order is being prepared — ask me "
+"anything here."
+msgstr ""
+
+#: sefid-kit.php:289
+#, php-format
+msgid ""
+"Payment for order %s did not go through, and nothing was charged. Shall I "
+"help you try again?"
+msgstr ""
+
+#: sefid-kit.php:298
+#, php-format
+msgid ""
+"Order %s is placed and waiting for payment. If you get stuck, just ask here."
+msgstr ""
+
+#: sefid-kit.php:313
+#, php-format
+msgid "Order %s is paid and being prepared."
+msgstr ""
+
+#: sefid-kit.php:315
+#, php-format
+msgid "Order %s is complete and on its way to you."
+msgstr ""
+
+#: sefid-kit.php:317
+#, php-format
+msgid "Payment for order %s did not go through, and nothing was charged."
+msgstr ""
+
+#: sefid-kit.php:319
+#, php-format
+msgid "Order %s was cancelled."
+msgstr ""
+
+#: sefid-kit.php:321
+#, php-format
+msgid "Order %s has been refunded."
+msgstr ""
+
+#: sefid-kit.php:641
+msgid "Sefid:"
+msgstr ""
+
+#: sefid-kit.php:644
+#, php-format
+msgid ""
+"This build is licensed for %s and will not run here. Download the build for "
+"this domain from your Sefid panel."
+msgstr ""
+
+#: sefid-kit.php:728
+#, php-format
+msgid "About order %1$s: %2$s"
+msgstr ""
+
+#: sefid-kit.php:1141
+msgid ""
+"The Sefid AI assistant for WooCommerce — chat, product sync and order "
+"tracking."
+msgstr ""
+
+#: sefid-kit.php:1149 sefid-kit.php:1232
+msgid "Sefid"
+msgstr ""
+
+#: sefid-kit.php:1197
+msgid ""
+"Your server could not reach Sefid. This is not about your keys — it usually "
+"means your host blocks outgoing connections. Ask your host to allow outbound "
+"HTTPS to sefid.dev."
+msgstr ""
+
+#: sefid-kit.php:1200
+msgid ""
+"Those keys were not accepted. Download the build for this site again from "
+"your Sefid panel."
+msgstr ""
+
+#: sefid-kit.php:1203
+msgid ""
+"Sefid replied unexpectedly. Try again shortly; if it keeps happening, "
+"contact the Sefid team."
+msgstr ""
+
+#: sefid-kit.php:1205
+msgid "Could not reach Sefid. Try again shortly."
+msgstr ""
+
+#: sefid-kit.php:1233
+msgid ""
+"Your AI assistant on this site: it answers visitors, finds your products, "
+"and follows up on orders."
+msgstr ""
+
+#: sefid-kit.php:1239
+msgid "Connected"
+msgstr ""
+
+#: sefid-kit.php:1248
+msgid ""
+"The first catalogue sync is running in the background. You can leave this "
+"page."
+msgstr ""
+
+#: sefid-kit.php:1251
+#, php-format
+msgid "%s products are ready for the assistant to search."
+msgstr ""
+
+#: sefid-kit.php:1253
+msgid "Everything is set up. Your products will appear here once they sync."
+msgstr ""
+
+#: sefid-kit.php:1258
+#, php-format
+msgid "%s product is waiting to be re-sent and will retry on its own."
+msgid_plural ""
+"%s products are waiting to be re-sent and will retry on their own."
+msgstr[0] ""
+msgstr[1] ""
+
+#: sefid-kit.php:1269
+msgid "Not connected"
+msgstr ""
+
+#: sefid-kit.php:1277
+msgid "One step left"
+msgstr ""
+
+#: sefid-kit.php:1279
+msgid ""
+"Paste the two keys from your Sefid panel below and press Save. That is all."
+msgstr ""
+
+#: sefid-kit.php:1287
+msgid "Connection"
+msgstr ""
+
+#: sefid-kit.php:1288
+msgid "Both keys are in your Sefid panel, under Install."
+msgstr ""
+
+#: sefid-kit.php:1291
+msgid "Public key"
+msgstr ""
+
+#: sefid-kit.php:1297
+msgid "Secret key"
+msgstr ""
+
+#: sefid-kit.php:1300
+msgid "This one stays on your server and never reaches a browser."
+msgstr ""
+
+#: sefid-kit.php:1305
+msgid "What the assistant does here"
+msgstr ""
+
+#: sefid-kit.php:1308
+msgid "Show the chat on my site"
+msgstr ""
+
+#: sefid-kit.php:1309
+msgid "A small chat button in the corner of every page."
+msgstr ""
+
+#: sefid-kit.php:1311
+msgid "Keep my products up to date"
+msgstr ""
+
+#: sefid-kit.php:1312
+msgid "So the assistant suggests real products, with real prices and stock."
+msgstr ""
+
+#: sefid-kit.php:1314
+msgid "Let my store message customers in the chat"
+msgstr ""
+
+#: sefid-kit.php:1315
+msgid "For a customer who is signed in and on the site."
+msgstr ""
+
+#: sefid-kit.php:1317
+msgid "Send order notes to the customer as well"
+msgstr ""
+
+#: sefid-kit.php:1318
+msgid "Your \"note to customer\" on an order also appears in their chat."
+msgstr ""
+
+#: sefid-kit.php:1320
+msgid "Let customers ask where their order is"
+msgstr ""
+
+#: sefid-kit.php:1321
+msgid "Still experimental — talk to the Sefid team before turning it on."
+msgstr ""
+
+#: sefid-kit.php:1325
+msgid "Save"
+msgstr ""
+
+#: sefid-kit.php:1329
+msgid "For developers"
+msgstr ""
+
+#: sefid-kit.php:1330
+msgid "Send a notice to a customer from your own theme or plugin:"
+msgstr ""
+
+#: sefid-kit.php:1332
+msgid ""
+"In place of the user id you may pass a phone number or an email address. The "
+"notice is only visible to that customer while they are signed in."
+msgstr ""

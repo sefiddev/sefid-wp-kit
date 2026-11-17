@@ -1,0 +1,192 @@
+# Persian translation for Sefid WP Kit.
+# Copyright (C) 2026 sefid.dev
+# This file is distributed under the same license as the plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sefid WP Kit 3.0.1\n"
+"Report-Msgid-Bugs-To: https://sefid.dev\n"
+"POT-Creation-Date: 2026-09-04\n"
+"PO-Revision-Date: 2026-09-04\n"
+"Last-Translator: sefid.dev <hi@sefid.dev>\n"
+"Language-Team: Persian <hi@sefid.dev>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Payment for order %s went through. Your order is being prepared — ask me anything here."
+msgstr "پرداخت سفارش %s انجام شد ✅ سفارشت در حال آماده‌سازی است. هر سوالی داشتی همین‌جا بپرس."
+
+msgid "Payment for order %s did not go through, and nothing was charged. Shall I help you try again?"
+msgstr "پرداخت سفارش %s انجام نشد و پولی از حسابت کم نشده. می‌خواهی کمکت کنم دوباره امتحان کنیم؟"
+
+msgid "Order %s is placed and waiting for payment. If you get stuck, just ask here."
+msgstr "سفارش %s ثبت شد و منتظر پرداخت است. اگر جایی گیر کردی همین‌جا بپرس."
+
+msgid "Order %s is paid and being prepared."
+msgstr "سفارش %s پرداخت شد و در حال آماده‌سازی است."
+
+msgid "Order %s is complete and on its way to you."
+msgstr "سفارش %s تکمیل شد و برایت فرستاده شد."
+
+msgid "Payment for order %s did not go through, and nothing was charged."
+msgstr "پرداخت سفارش %s انجام نشد و پولی از حسابت کم نشده."
+
+msgid "Order %s was cancelled."
+msgstr "سفارش %s لغو شد."
+
+msgid "Order %s has been refunded."
+msgstr "مبلغ سفارش %s برگشت داده شد."
+
+msgid "Sefid:"
+msgstr "سفید:"
+
+msgid "This build is licensed for %s and will not run here. Download the build for this domain from your Sefid panel."
+msgstr "این نسخه برای دامنه‌ی %s ساخته شده و روی این یکی کار نمی‌کند. نسخه‌ی مخصوص همین دامنه را از پنل سفید دانلود کن."
+
+msgid "About order %1$s: %2$s"
+msgstr "درباره‌ی سفارش %1$s: %2$s"
+
+msgid "The Sefid AI assistant for WooCommerce — chat, product sync and order tracking."
+msgstr "دستیار هوش مصنوعی سفید برای ووکامرس — چت، سینک محصولات و پیگیری سفارش."
+
+msgid "Sefid"
+msgstr "سفید"
+
+msgid "Your server could not reach Sefid. This is not about your keys — it usually means your host blocks outgoing connections. Ask your host to allow outbound HTTPS to sefid.dev."
+msgstr "سرور سایتت نتوانست به سفید وصل شود. این مشکل از کلیدها نیست؛ معمولا یعنی هاست، ارتباط خروجی را بسته است. از پشتیبانی هاست بخواه ارتباط خروجی HTTPS به sefid.dev را باز کند."
+
+msgid "Those keys were not accepted. Download the build for this site again from your Sefid panel."
+msgstr "این کلیدها پذیرفته نشد. نسخه‌ی مخصوص همین سایت را دوباره از پنل سفید دانلود کن."
+
+msgid "Sefid replied unexpectedly. Try again shortly; if it keeps happening, contact the Sefid team."
+msgstr "سفید پاسخ غیرمنتظره داد. کمی بعد دوباره تلاش کن؛ اگر ادامه داشت با تیم سفید تماس بگیر."
+
+msgid "Could not reach Sefid. Try again shortly."
+msgstr "اتصال به سفید برقرار نشد. کمی بعد دوباره تلاش کن."
+
+msgid "Your AI assistant on this site: it answers visitors, finds your products, and follows up on orders."
+msgstr "دستیار هوش مصنوعی تو روی این سایت: به بازدیدکننده‌ها جواب می‌دهد، محصولاتت را پیدا می‌کند و سفارش‌ها را پیگیری می‌کند."
+
+msgid "Connected"
+msgstr "متصل است"
+
+msgid "The first catalogue sync is running in the background. You can leave this page."
+msgstr "سینک اولیه‌ی محصولات در پس‌زمینه در حال انجام است. می‌توانی این صفحه را ببندی."
+
+msgid "%s products are ready for the assistant to search."
+msgstr "%s محصول آماده‌ی جست‌وجوی دستیار است."
+
+msgid "Everything is set up. Your products will appear here once they sync."
+msgstr "همه‌چیز آماده است. به‌محض سینک شدن، محصولاتت این‌جا دیده می‌شوند."
+
+msgid "Not connected"
+msgstr "متصل نیست"
+
+msgid "One step left"
+msgstr "یک قدم مانده"
+
+msgid "Paste the two keys from your Sefid panel below and press Save. That is all."
+msgstr "دو کلید را از پنل سفید کپی کن، این پایین بگذار و ذخیره را بزن. همین."
+
+msgid "Connection"
+msgstr "اتصال"
+
+msgid "Both keys are in your Sefid panel, under Install."
+msgstr "هر دو کلید در پنل سفید، بخش نصب هستند."
+
+msgid "Public key"
+msgstr "کلید عمومی"
+
+msgid "Secret key"
+msgstr "کلید امن"
+
+msgid "This one stays on your server and never reaches a browser."
+msgstr "این یکی فقط روی سرور خودت می‌ماند و هرگز به مرورگر نمی‌رود."
+
+msgid "What the assistant does here"
+msgstr "دستیار این‌جا چه کارهایی می‌کند"
+
+msgid "Show the chat on my site"
+msgstr "چت را روی سایتم نشان بده"
+
+msgid "A small chat button in the corner of every page."
+msgstr "یک دکمه‌ی کوچک چت در گوشه‌ی همه‌ی صفحه‌ها."
+
+msgid "Keep my products up to date"
+msgstr "محصولاتم را به‌روز نگه دار"
+
+msgid "So the assistant suggests real products, with real prices and stock."
+msgstr "تا دستیار محصول واقعی پیشنهاد بدهد، با قیمت و موجودی واقعی."
+
+msgid "Let my store message customers in the chat"
+msgstr "بگذار فروشگاهم در چت به مشتری پیام بدهد"
+
+msgid "For a customer who is signed in and on the site."
+msgstr "برای مشتری‌ای که وارد شده و روی سایت است."
+
+msgid "Send order notes to the customer as well"
+msgstr "یادداشت‌های سفارش را هم برای مشتری بفرست"
+
+msgid "Your \"note to customer\" on an order also appears in their chat."
+msgstr "«یادداشت برای مشتری» روی سفارش، در چت خودش هم دیده می‌شود."
+
+msgid "Let customers ask where their order is"
+msgstr "بگذار مشتری‌ها سفارششان را پیگیری کنند"
+
+msgid "Still experimental — talk to the Sefid team before turning it on."
+msgstr "هنوز آزمایشی است — قبل از روشن‌کردنش با تیم سفید حرف بزن."
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "For developers"
+msgstr "برای توسعه‌دهنده‌ها"
+
+msgid "Send a notice to a customer from your own theme or plugin:"
+msgstr "فرستادن اعلان به مشتری از قالب یا افزونه‌ی خودت:"
+
+msgid "In place of the user id you may pass a phone number or an email address. The notice is only visible to that customer while they are signed in."
+msgstr "به‌جای شناسه‌ی کاربر می‌توانی شماره موبایل یا ایمیل هم بدهی. اعلان فقط برای همان مشتری و وقتی وارد شده دیده می‌شود."
+
+msgid "%s product is waiting to be re-sent and will retry on its own."
+msgid_plural "%s products are waiting to be re-sent and will retry on their own."
+msgstr[0] "%s محصول منتظر ارسال دوباره است و خودش دوباره تلاش می‌کند."
+msgstr[1] "%s محصول منتظر ارسال دوباره است و خودش دوباره تلاش می‌کند."
+
+msgid "Where the assistant reads your products from"
+msgstr "چت‌بات محصولات شما را از کجا بخواند"
+
+msgid "Synced with Sefid (recommended)"
+msgstr "همگام با سفید (پیشنهادی)"
+
+msgid "Only the public product data (name, price, stock, photo) is kept in Sefid, and every change you make here reaches Sefid at once. Chat answers are fast."
+msgstr "فقط اطلاعات عمومی محصولات (نام، قیمت، موجودی، عکس) در سفید نگه داشته می‌شود و هر تغییری که این‌جا بدهید، همان لحظه به سفید می‌رسد. جواب چت سریع است."
+
+msgid "Asked live from this site"
+msgstr "با درخواست زنده از همین سایت"
+
+msgid "No product is kept in Sefid; each time a customer looks for one, Sefid asks this site. Chat answers then depend on how fast your site responds, and may take 5 to 10 seconds longer."
+msgstr "محصولی در سفید نگه داشته نمی‌شود؛ هر بار که مشتری دنبال محصولی بگردد، سفید از همین سایت می‌پرسد. در این حالت جواب دادن چت به سرعت پاسخ‌گویی سایت شما بستگی دارد و ممکن است ۵ تا ۱۰ ثانیه به زمان جواب اضافه شود."
+
+msgid "Order tracking in the chat"
+msgstr "پیگیری سفارش در چت"
+
+msgid "Turned on by the Sefid team after you agree it with them; it is not a switch here."
+msgstr "بعد از هماهنگی با تیم سفید، خود تیم روشنش می‌کند؛ این‌جا کلیدی برایش نیست."
+
+msgid "On"
+msgstr "روشن"
+
+msgid "Off"
+msgstr "خاموش"
+
+msgid "Shipping address"
+msgstr "آدرس ارسال"
+
+msgid "Billing address"
+msgstr "آدرس صورت‌حساب"
+
+msgid "Address from the chat"
+msgstr "آدرس ثبت‌شده در چت"
